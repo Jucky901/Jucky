@@ -18,6 +18,9 @@ namespace WindowsFormsApp1
             int y = 5;
             int z = 5;
             int a = x + y + z;
+
+            Console.WriteLine(z);
+            Console.ReadLine();
         }
     }
 }
