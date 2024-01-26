@@ -20,6 +20,8 @@ namespace WindowsFormsApp1
 
             int x = 5;
             int y = 7;
+            int z = 8;
+            Console.WriteLine("I was here");
         }
     }
 
