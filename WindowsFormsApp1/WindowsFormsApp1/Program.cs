@@ -17,12 +17,11 @@ namespace WindowsFormsApp1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            int x = 5;
+            int y = 7;
         }
     }
 
-    class Thang
-    {
-        string s = "Hello Thang was here";
-    }
 
 }
