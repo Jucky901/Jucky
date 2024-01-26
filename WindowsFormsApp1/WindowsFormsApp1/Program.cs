@@ -23,6 +23,7 @@ namespace WindowsFormsApp1
             int z = x + y;
 
             Console.WriteLine(z);
+            Console.WriteLine("Gikgud");
         }
     }
 }

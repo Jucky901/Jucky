@@ -10,6 +10,10 @@ namespace WindowsFormsApp1
     {
         int x, y;
 
+        public Vuong()
+        {
+            Console.WriteLine("Minh Le");
+        }
     //Vuong
     }
 }
