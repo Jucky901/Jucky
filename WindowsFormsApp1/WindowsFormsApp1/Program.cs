@@ -19,4 +19,10 @@ namespace WindowsFormsApp1
             Application.Run(new Form1());
         }
     }
+
+    class Thang
+    {
+        string s = "Hello Thang was here";
+    }
+
 }
