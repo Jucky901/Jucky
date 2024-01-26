@@ -21,6 +21,7 @@ namespace WindowsFormsApp1
 
             Console.WriteLine(z);
             Console.ReadLine();
+            Console.WriteLine(a);
         }
     }
 }
