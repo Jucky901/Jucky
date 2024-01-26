@@ -21,7 +21,11 @@ namespace WindowsFormsApp1
             int x = 5;
             int y = 7;
 
+
             Console.WriteLine("Hesa");
+
+            int z = 8;
+            Console.WriteLine("I was here");
         }
     }
 
