@@ -14,9 +14,10 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            int x = 5;
+            int y = 5;
+            int z = 5;
+            int a = x + y + z;
         }
     }
 }
