@@ -14,16 +14,11 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
 
             int x = 0, y = 0;
 
             int z = x + y;
-
-            Console.WriteLine(z);
-            Console.WriteLine("Gikgud");
         }
     }
 }
